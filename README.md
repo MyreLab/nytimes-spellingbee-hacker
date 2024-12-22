@@ -7,4 +7,4 @@ If you're stuck on the NYTimes spelling bee game, look no further. Enter your le
  3. Resulting words will not use any letter not specified in the string
  4. Resulting words will be at least 4 characters long
 
-Credit to dwyl for the (https://github.com/dwyl/english-words/tree/master)[text file containing 479k english words].
+Credit to dwyl for the [text file containing 479k english words](https://github.com/dwyl/english-words/tree/master).
