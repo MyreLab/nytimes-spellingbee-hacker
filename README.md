@@ -6,3 +6,5 @@ If you're stuck on the NYTimes spelling bee game, look no further. Enter your le
  2. Resulting words will use a combination of the provided letters, but not all letters need to be used (except for the first)
  3. Resulting words will not use any letter not specified in the string
  4. Resulting words will be at least 4 characters long
+
+Credit to dwyl for the (https://github.com/dwyl/english-words/tree/master)[text file containing 479k english words].
