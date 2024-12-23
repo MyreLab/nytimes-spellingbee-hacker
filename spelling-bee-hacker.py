@@ -4,7 +4,7 @@
 # input file from: https://github.com/dwyl/english-words/tree/master
 
 def load_words():
-    with open('C:/Users/mybauman/Projects/misc/words_alpha.txt') as word_file:
+    with open('C:/Users/mybauman/Projects/misc/nytimes-spellingbee-hacker/words_alpha.txt') as word_file:
         valid_words = set(word_file.read().split())
 
     return valid_words
@@ -60,6 +60,6 @@ if __name__ == '__main__':
         print(word)
     print(f"Total words found: {len(found_words)}")
 
-    # QA step: check if specific word exists
+    # QA: check if specific word exists
     #print('stoic' in english_words)
 
