@@ -1,5 +1,5 @@
 # NYTimes Spelling Bee Hacker
-# Writte by: Myrela Bauman
+# Written by: Myrela Bauman
 # Date: 12/21/2024
 # input file from: https://github.com/dwyl/english-words/tree/master
 
